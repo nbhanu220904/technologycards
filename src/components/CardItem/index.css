@@ -1,0 +1,45 @@
+.card-1 {
+  border-top: 5px solid #ff4f64;
+  border-radius: 15px;
+  max-width: 100%;
+  padding: 15px;
+  margin: 10px;
+}
+
+.card-2 {
+  border-top: 5px solid #00a8e7;
+  border-radius: 15px;
+  max-width: 100%;
+  padding: 15px;
+  margin: 10px;
+}
+
+.card-3 {
+  border-top: 5px solid #44c4a1;
+  border-radius: 15px;
+  max-width: 100%;
+  padding: 15px;
+  margin: 10px;
+}
+
+.card-4 {
+  border-top: 5px solid #fcc200;
+  border-radius: 15px;
+  max-width: 100%;
+  padding: 15px;
+  margin: 10px;
+}
+
+/* Write CSS code here. */
+.img {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-items: flex-end;
+}
+.cards {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
